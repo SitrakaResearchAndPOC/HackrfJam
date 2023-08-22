@@ -394,6 +394,7 @@ tar -xvf hackrf-2023.01.1.tar.xz
 ```
 ```
 cd hackrf-2023.01.1/firmware-bin/
+```
 
 PRESS DFU AND RESET
 ```
