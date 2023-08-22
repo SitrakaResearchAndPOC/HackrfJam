@@ -389,18 +389,18 @@ regards read me cleverjam for test
 
 ```
 wget https://github.com/greatscottgadgets/hackrf/releases/download/v2023.01.1/hackrf-2023.01.1.tar.xz
-```
-```
+``` 
+``` 
 tar -xvf hackrf-2023.01.1.tar.xz
-```
-```
+``` 
+``` 
 cd hackrf-2023.01.1/firmware-bin/
-```
-
+``` 
+``` 
 PRESS DFU AND RESET
-```
+``` 
 hackrf_spiflash -w hackrf_one_usb.bin
-```
+``` 
 PRESS RESET
 
 SOMETIMES, DFU IS NEED  
