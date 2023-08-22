@@ -192,7 +192,7 @@ cd ../..
 ```
 
 ## PLUG HACKRF
-## Test : 
+## Test 
 ```
 hackrf_info
 ```
@@ -245,7 +245,7 @@ ldconfig
 cd ../..
 ```
 
-## Test uhd probe :
+## Test uhd probe 
 ```
 uhd_usrp_probe
 ```
@@ -356,7 +356,7 @@ cd ../..
 cd ..
 ```
 
-# RUNNING CLEVERJAM : 
+# RUNNING CLEVERJAM 
 ```
 git clone https://github.com/jhonnybonny/CleverJAM
 ```
