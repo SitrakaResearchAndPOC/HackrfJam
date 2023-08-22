@@ -91,10 +91,14 @@ git log --since="2021-1-1" --until="2021-1-10"
 BEST PRECAUTION : 
 * https://wiki.gnuradio.org/index.php?title=ModuleNotFoundError#B._Finding_the_Python_library
 * https://wiki.gnuradio.org/index.php/UbuntuInstall
+
+  
 THE VARIABLE HAS RED CROSS IN GRC, IT IS NOT ERROR ON UBUNTU 
 INSTALLING DEPENDENCIES + GNURADIO USING maint version + LOOK THE DATE  
 FINDING GR-OSMOSDR COMPATIBLE WITH GNURADIO + NEAR (<) THE DATE  
 ALL DEVICES (HACKRF) SHOULD BE NEAR (<) THE DATE OF GR-OSMOSDR  
+
+
 COMPILING BY ORDER :   
 DRIVER DEVICES -> SOAPYSDR -> SOAPYHACKRF ->  SOAPY_UHD -> GR-OSMOSDR 
 hackrf 10/12/2020 < 11/01/2021 :  
