@@ -326,7 +326,6 @@ cd gr-osmosdr/
 git checkout cffef690f29e0793cd2d6c5d028c0c929115f0ac
 ```
 ```
-```
 cd ..
 ```
 ```
