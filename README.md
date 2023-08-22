@@ -384,8 +384,7 @@ Clever jam could run with hopping frequency using python script
 regards read me cleverjam for test 
 
 
-# FLASHING FIRMEWARE HACKRF
-# FLASHING HACKRF WITH NEW FIRMWARE
+# FLASHING FIRMEWARE HACKRF : FLASHING HACKRF WITH NEW FIRMWARE
 
 ```
 wget https://github.com/greatscottgadgets/hackrf/releases/download/v2023.01.1/hackrf-2023.01.1.tar.xz
