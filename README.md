@@ -386,6 +386,7 @@ regards read me cleverjam for test
 
 # FLASHING FIRMEWARE HACKRF
 # FLASHING HACKRF WITH NEW FIRMWARE
+
 ```
 wget https://github.com/greatscottgadgets/hackrf/releases/download/v2023.01.1/hackrf-2023.01.1.tar.xz
 ```
@@ -402,9 +403,9 @@ hackrf_spiflash -w hackrf_one_usb.bin
 ```
 PRESS RESET
 
-SOMETIMES, DFU IS NEED
-apt-get install dfu-util
-dfu-util -D hackrf_one_usb.dfu 
+SOMETIMES, DFU IS NEED  
+apt-get install dfu-util  
+dfu-util -D hackrf_one_usb.dfu   
 
 # Test : plug hackrf
 ```
