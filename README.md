@@ -191,8 +191,8 @@ ldconfig
 cd ../..
 ```
 
-## PLUG HACKRF
-## Test 
+## PLUG HACKRF AND TEST IT
+
 ```
 hackrf_info
 ```
@@ -315,7 +315,7 @@ cd ../..
 ```
 gnuradio-companion
 ```
-# INSTALLING GR-OSMOSDR
+## INSTALLING GR-OSMOSDR
 ```
 git clone https://github.com/osmocom/gr-osmosdr
 ```
@@ -356,7 +356,7 @@ cd ../..
 cd ..
 ```
 
-# RUNNING CLEVERJAM 
+## RUNNING CLEVERJAM 
 ```
 git clone https://github.com/jhonnybonny/CleverJAM
 ```
